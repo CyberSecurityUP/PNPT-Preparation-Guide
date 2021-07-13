@@ -1,4 +1,4 @@
-# PNPT-Preparation-Guide
+# PNPT-Preparation-Guide (Unofficial)
 PNPT Exam Preparation - TCM Security
 
 ## OSINT/Information Gathering
