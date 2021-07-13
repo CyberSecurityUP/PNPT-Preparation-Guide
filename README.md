@@ -112,9 +112,7 @@ https://www.mindmeister.com/pt/
 1746180947/web-vulnerability-by-joas-
 antonio
 ```
-## Vulnerability Scanning and
-
-## Exploitation
+## Vulnerability Scanning and Exploitation
 
 ```
 https://github.com/enaqx/awesome-pentest
@@ -203,26 +201,13 @@ RksLPUFEi9TJwAH_wqvI/view?usp=sharing
 https://drive.google.com/file/d/1Hjq_
 Hc8dQEF_ZhNFtGMrl2GELoryboyW/view?
 usp=sharing
-https://drive.google.com/file/d/
-1znezUNtghkcFhwfKMZmeyNrtdbwBXRsz/
-view?usp=sharing
-https://github.com/swisskyrepo/
-PayloadsAllTheThings/blob/master/
-Methodology%20and%20Resources/
-Windows%20-%20Privilege%20Escalation.
-md
-https://0xsp.com/offensive/privilege-
-escalation-cheatsheet
-https://pentest.tonyng.net/windows-
-privilege-escalation-a-cheatsheet/
-https://sushant747.gitbooks.io/total-oscp-
-guide/content/privilege_escalation_windows.
-html
-https://www.fuzzysecurity.com/tutorials/16.
-html
-https://www.hackingdream.net/2020/03/
-windows-privilege-escalation-cheatsheet-
-for-oscp.html
+https://drive.google.com/file/d/1znezUNtghkcFhwfKMZmeyNrtdbwBXRsz/view?usp=sharing
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+https://0xsp.com/offensive/privilege-escalation-cheatsheet
+https://pentest.tonyng.net/windows-privilege-escalation-a-cheatsheet/
+https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
+https://www.fuzzysecurity.com/tutorials/16.html
+https://www.hackingdream.net/2020/03/windows-privilege-escalation-cheatsheet-for-oscp.html
 https://book.hacktricks.xyz/windows/
 windows-local-privilege-escalation
 https://joshruppe.com/basic-windows-
@@ -266,10 +251,9 @@ https://blog.thehackingnomad.com/cheat-
 sheet-series/privesc-linux
 https://gtfobins.github.io/
 ```
-## Lateral Movement - Windows/
+## Lateral Movement - Windows/Linux
 
-## Linux
-
+```
 https://riccardoancarani.github.io/2019-10-
 04-lateral-movement-megaprimer/
 https://posts.specterops.io/offensive-lateral-
@@ -296,6 +280,8 @@ post-exploitation-10-4/
 https://ivanitlearning.wordpress.com/2019/
 02/10/linux-exploitation-lateral-movement/
 https://azeria-labs.com/lateral-movement/
+```
+
 
 ## Courses TCM
 
